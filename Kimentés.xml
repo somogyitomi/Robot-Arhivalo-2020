@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hegesztett-Lista>
+  <Termék Id="1" Gyarto="Volvo" Tipus="EC 250" Megnevezes="Végagy" SorSzam="6" Darabszam="2" RobotTipus="K4" HegIdo="20" Nev="Novák Rudolf" Datum="2020. 05. 25. 14:33:03" />
+  <Termék Id="2" Gyarto="Caterpillar" Tipus="11250" Megnevezes="Középső Villa" SorSzam="137" Darabszam="1" RobotTipus="K5" HegIdo="80" Nev="Dósai Ibolya" Datum="2020. 05. 25. 14:33:58" />
+  <Termék Id="3" Gyarto="Fuchs" Tipus="11168" Megnevezes="Kirakókar" SorSzam="95" Darabszam="4" RobotTipus="K6" HegIdo="180" Nev="Tóth Márk" Datum="2020. 05. 25. 14:34:43" />
+</Hegesztett-Lista>
